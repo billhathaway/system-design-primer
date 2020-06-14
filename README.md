@@ -233,6 +233,8 @@ Gather requirements and scope the problem.  Ask questions to clarify use cases a
 * How much data do we expect to handle?
 * How many requests per second do we expect?
 * What is the expected read to write ratio?
+* What objectives are there for response times?
+* What objectives are there for system/data availability?
 
 ### Step 2: Create a high level design
 
